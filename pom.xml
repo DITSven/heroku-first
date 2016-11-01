@@ -5,9 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>com.dit.eoinmulvey.mastercard</name>
   <description>Application to deploy on Heroku</description>
-  <dependency>
-    <groupId>com.sparkjava</groupId>
-    <artifactId>spark-core</artifactId>
-    <version>2.5</version>
-  </dependency>
+  <dependencies>
+    <dependency>
+      <groupId>com.sparkjava</groupId>
+      <artifactId>spark-core</artifactId>
+      <version>2.5</version>
+    </dependency>
+  </dependencies>
 </project>
